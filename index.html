@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>EPMS — Employee Payroll Management System</title>
+  <meta name="description" content="A lightweight Employee Payroll Management System for searching employees and reviewing deductions, incentives, allowances, retirement, and new-hire insights.">
+  <meta name="author" content="EPMS">
+  <meta name="theme-color" content="#1b342b">
+  <meta name="color-scheme" content="dark">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="EPMS — Employee Payroll Management System">
+  <meta property="og:description" content="Search employees and review payroll insights — deductions, incentives, allowances, retirement, and new hires — at a glance.">
+  <meta property="og:image" content="pictures/logo.png">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="EPMS — Employee Payroll Management System">
+  <meta name="twitter:description" content="Search employees and review payroll insights — deductions, incentives, allowances, retirement, and new hires — at a glance.">
+  <meta name="twitter:image" content="pictures/logo.png">
+
+  <link rel="icon" type="image/png" href="pictures/MyLogo.png">
+  <link rel="stylesheet" href="dist/style.css">
+</head>
+<body>
+  <main>
+    <header class="appHeader">
+      <div class="appHeader__brand">
+        <span class="appHeader__badge">EPMS</span>
+        <h1 class="appHeader__title">Employee Payroll Management</h1>
+      </div>
+      <p class="appHeader__subtitle">Search employees and review payroll insights at a glance.</p>
+    </header>
+
+    <div class="parent-search-bar">
+      <div class="searchRow">
+        <input id="search-bar" type="text" placeholder="Search by name or ID number...">
+        <button type="button">Search</button>
+      </div>
+      <div class="showOutputFromSearchBar" style="display: none;">
+        <div class="dataSearchCard"></div>
+      </div>
+    </div>
+
+    <section class="chartSection">
+      <div class="chartCard">
+        <h2>Totals Overview</h2>
+        <p class="chartCard__hint">Deductions vs. Incentives vs. Allowances (EG)</p>
+        <div class="chartCard__canvasWrap">
+          <canvas id="totalsChart"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <section id="containerShowData">
+      <div class="showDeductionsAmount card">
+        <!-- This item displays the employee's Deductions. -->
+         <h1>Deductions</h1>
+         <span>Lorem ipsum dolor sit.</span>
+         <span>Lorem ipsum dolor sit.</span>
+         <span>Lorem ipsum dolor sit.</span>
+      </div>
+      <div class="showIncentivesAmount card">
+        <!-- This item displays the employee's Incentives. -->
+         <h1>Incentives</h1>
+         <span>Lorem ipsum dolor sit.</span>
+         <span>Lorem ipsum dolor sit.</span>
+         <span>Lorem ipsum dolor sit.</span>
+      </div>
+      <div class="showAllowancesAmount card">
+        <!-- This item displays the employee's Allowances. -->
+         <h1>Allowances</h1>
+         <span>Lorem ipsum dolor sit.</span>
+         <span>Lorem ipsum dolor sit.</span>
+         <span>Lorem ipsum dolor sit.</span>
+      </div>
+      <div class="showRetirementAndNewEmployee card">
+        <!-- This item displays the employee's Employees nearing retirement age => [Retirement] And New Employee => [New]. -->
+         <h1>Retirement & New</h1>
+         <span>Lorem ipsum dolor sit.</span>
+         <span>Lorem ipsum dolor sit.</span>
+         <span>Lorem ipsum dolor sit.</span>
+      </div>
+    </section>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+  <script type="module" src="dist/main.js"></script>
+</body>
+</html>

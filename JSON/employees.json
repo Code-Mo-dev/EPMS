@@ -1,0 +1,2147 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed Hassan Ali",
+    "idNumber": "EMP-1001",
+    "salary": 18325,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 625,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "Software Developer",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000001",
+    "birthDate": "1975-08-01",
+    "hireDate": "2025-05-30"
+  },
+  {
+    "id": 2,
+    "name": "Mohamed Adel Ibrahim",
+    "idNumber": "EMP-1002",
+    "salary": 12650,
+    "deductions": [
+      {
+        "amount": 210,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "HR Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000002",
+    "birthDate": "1997-04-28",
+    "hireDate": "2020-11-11"
+  },
+  {
+    "id": 3,
+    "name": "Omar Khaled Mahmoud",
+    "idNumber": "EMP-1003",
+    "salary": 14975,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Accountant",
+    "allowances": [
+      {
+        "amount": 630,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000003",
+    "birthDate": "2000-11-03",
+    "hireDate": "2021-08-15"
+  },
+  {
+    "id": 4,
+    "name": "Youssef Ashraf Ahmed",
+    "idNumber": "EMP-1004",
+    "salary": 12300,
+    "deductions": [
+      {
+        "amount": 320,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 1000,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "Sales Representative",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000004",
+    "birthDate": "1963-04-27",
+    "hireDate": "2011-07-23"
+  },
+  {
+    "id": 5,
+    "name": "Mahmoud Tarek Hassan",
+    "idNumber": "EMP-1005",
+    "salary": 14625,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1125,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Marketing Specialist",
+    "allowances": [
+      {
+        "amount": 850,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000005",
+    "birthDate": "1985-08-14",
+    "hireDate": "2022-07-02"
+  },
+  {
+    "id": 6,
+    "name": "Mostafa Samir Adel",
+    "idNumber": "EMP-1006",
+    "salary": 23950,
+    "deductions": [
+      {
+        "amount": 430,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Project Manager",
+    "allowances": [
+      {
+        "amount": 960,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000006",
+    "birthDate": "1975-02-24",
+    "hireDate": "2019-11-06"
+  },
+  {
+    "id": 7,
+    "name": "Khaled Essam Ibrahim",
+    "idNumber": "EMP-1007",
+    "salary": 18275,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1375,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "UI/UX Designer",
+    "allowances": [],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000007",
+    "birthDate": "1993-04-29",
+    "hireDate": "2018-07-13"
+  },
+  {
+    "id": 8,
+    "name": "Amr Wael Mahmoud",
+    "idNumber": "EMP-1008",
+    "salary": 11600,
+    "deductions": [
+      {
+        "amount": 540,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Customer Service Representative",
+    "allowances": [],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000008",
+    "birthDate": "1996-07-01",
+    "hireDate": "2017-07-23"
+  },
+  {
+    "id": 9,
+    "name": "Ibrahim Magdy Hassan",
+    "idNumber": "EMP-1009",
+    "salary": 19925,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Data Analyst",
+    "allowances": [
+      {
+        "amount": 1290,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000009",
+    "birthDate": "1996-02-16",
+    "hireDate": "2018-05-14"
+  },
+  {
+    "id": 10,
+    "name": "Tarek Hossam Ali",
+    "idNumber": "EMP-1010",
+    "salary": 10250,
+    "deductions": [
+      {
+        "amount": 650,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 1750,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "IT Support Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000010",
+    "birthDate": "1986-07-26",
+    "hireDate": "2015-10-11"
+  },
+  {
+    "id": 11,
+    "name": "Walid Emad Khaled",
+    "idNumber": "EMP-1011",
+    "salary": 16075,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1875,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Financial Analyst",
+    "allowances": [
+      {
+        "amount": 1510,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000011",
+    "birthDate": "1995-02-05",
+    "hireDate": "2024-04-24"
+  },
+  {
+    "id": 12,
+    "name": "Ayman Reda Ahmed",
+    "idNumber": "EMP-1012",
+    "salary": 13400,
+    "deductions": [
+      {
+        "amount": 760,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Operations Specialist",
+    "allowances": [
+      {
+        "amount": 1620,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000012",
+    "birthDate": "1984-02-14",
+    "hireDate": "2013-02-17"
+  },
+  {
+    "id": 13,
+    "name": "Bassem Gamal Ibrahim",
+    "idNumber": "EMP-1013",
+    "salary": 19225,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 2125,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "Software Developer",
+    "allowances": [],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000013",
+    "birthDate": "1990-07-13",
+    "hireDate": "2026-08-11"
+  },
+  {
+    "id": 14,
+    "name": "Hussein Atef Mahmoud",
+    "idNumber": "EMP-1014",
+    "salary": 13550,
+    "deductions": [
+      {
+        "amount": 870,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "HR Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000014",
+    "birthDate": "1988-03-22",
+    "hireDate": "2024-04-16"
+  },
+  {
+    "id": 15,
+    "name": "Sayed Mahmoud Hassan",
+    "idNumber": "EMP-1015",
+    "salary": 15875,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Accountant",
+    "allowances": [
+      {
+        "amount": 450,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000015",
+    "birthDate": "1965-06-27",
+    "hireDate": "2013-02-08"
+  },
+  {
+    "id": 16,
+    "name": "Marwan Adel Ibrahim",
+    "idNumber": "EMP-1016",
+    "salary": 13200,
+    "deductions": [
+      {
+        "amount": 980,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 500,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "Sales Representative",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000016",
+    "birthDate": "1984-12-28",
+    "hireDate": "2026-05-27"
+  },
+  {
+    "id": 17,
+    "name": "Nader Samir Ahmed",
+    "idNumber": "EMP-1017",
+    "salary": 15525,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 625,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Marketing Specialist",
+    "allowances": [
+      {
+        "amount": 670,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000017",
+    "birthDate": "1979-05-26",
+    "hireDate": "2017-10-11"
+  },
+  {
+    "id": 18,
+    "name": "Sherif Ahmed Khaled",
+    "idNumber": "EMP-1018",
+    "salary": 24850,
+    "deductions": [
+      {
+        "amount": 190,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Project Manager",
+    "allowances": [
+      {
+        "amount": 780,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000018",
+    "birthDate": "1980-05-02",
+    "hireDate": "2020-02-03"
+  },
+  {
+    "id": 19,
+    "name": "Ashraf Ibrahim Ali",
+    "idNumber": "EMP-1019",
+    "salary": 16175,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 875,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "UI/UX Designer",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000019",
+    "birthDate": "1998-05-22",
+    "hireDate": "2014-02-06"
+  },
+  {
+    "id": 20,
+    "name": "Wael Hassan Mahmoud",
+    "idNumber": "EMP-1020",
+    "salary": 9500,
+    "deductions": [
+      {
+        "amount": 300,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Customer Service Representative",
+    "allowances": [],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000020",
+    "birthDate": "1987-05-26",
+    "hireDate": "2026-06-18"
+  },
+  {
+    "id": 21,
+    "name": "Essam Khalil Ahmed",
+    "idNumber": "EMP-1021",
+    "salary": 17825,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Data Analyst",
+    "allowances": [
+      {
+        "amount": 1110,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000021",
+    "birthDate": "1978-04-01",
+    "hireDate": "2011-09-23"
+  },
+  {
+    "id": 22,
+    "name": "Magdy Tamer Hassan",
+    "idNumber": "EMP-1022",
+    "salary": 11150,
+    "deductions": [
+      {
+        "amount": 410,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 1250,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "IT Support Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000022",
+    "birthDate": "1988-03-04",
+    "hireDate": "2024-10-28"
+  },
+  {
+    "id": 23,
+    "name": "Hossam Adel Ibrahim",
+    "idNumber": "EMP-1023",
+    "salary": 16975,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1375,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Financial Analyst",
+    "allowances": [
+      {
+        "amount": 1330,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000023",
+    "birthDate": "1988-08-01",
+    "hireDate": "2019-01-02"
+  },
+  {
+    "id": 24,
+    "name": "Adham Yasser Mahmoud",
+    "idNumber": "EMP-1024",
+    "salary": 14300,
+    "deductions": [
+      {
+        "amount": 520,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Operations Specialist",
+    "allowances": [
+      {
+        "amount": 1440,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000024",
+    "birthDate": "1977-04-02",
+    "hireDate": "2024-08-05"
+  },
+  {
+    "id": 25,
+    "name": "Yasser Fathy Ali",
+    "idNumber": "EMP-1025",
+    "salary": 20125,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1625,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "Software Developer",
+    "allowances": [],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000025",
+    "birthDate": "1988-10-31",
+    "hireDate": "2019-01-09"
+  },
+  {
+    "id": 26,
+    "name": "Sameh Mostafa Hassan",
+    "idNumber": "EMP-1026",
+    "salary": 14450,
+    "deductions": [
+      {
+        "amount": 630,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "HR Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000026",
+    "birthDate": "1988-12-05",
+    "hireDate": "2017-03-16"
+  },
+  {
+    "id": 27,
+    "name": "Ramy Hany Ibrahim",
+    "idNumber": "EMP-1027",
+    "salary": 16775,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Accountant",
+    "allowances": [
+      {
+        "amount": 1770,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000027",
+    "birthDate": "1973-06-05",
+    "hireDate": "2020-02-21"
+  },
+  {
+    "id": 28,
+    "name": "Nabil Sayed Ahmed",
+    "idNumber": "EMP-1028",
+    "salary": 11100,
+    "deductions": [
+      {
+        "amount": 740,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 2000,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "Sales Representative",
+    "allowances": [],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000028",
+    "birthDate": "1994-04-13",
+    "hireDate": "2013-06-28"
+  },
+  {
+    "id": 29,
+    "name": "Karim Hassan Ali",
+    "idNumber": "EMP-1029",
+    "salary": 13425,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 2125,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Marketing Specialist",
+    "allowances": [
+      {
+        "amount": 490,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000029",
+    "birthDate": "1985-10-22",
+    "hireDate": "2016-06-21"
+  },
+  {
+    "id": 30,
+    "name": "Faisal Khaled Ahmed",
+    "idNumber": "EMP-1030",
+    "salary": 22750,
+    "deductions": [
+      {
+        "amount": 850,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Project Manager",
+    "allowances": [
+      {
+        "amount": 600,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000030",
+    "birthDate": "1977-02-13",
+    "hireDate": "2021-02-28"
+  },
+  {
+    "id": 31,
+    "name": "Abdullah Ibrahim Hassan",
+    "idNumber": "EMP-1031",
+    "salary": 17075,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 2375,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "UI/UX Designer",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000031",
+    "birthDate": "1993-11-30",
+    "hireDate": "2026-06-14"
+  },
+  {
+    "id": 32,
+    "name": "Abdelrahman Tarek Mahmoud",
+    "idNumber": "EMP-1032",
+    "salary": 10400,
+    "deductions": [
+      {
+        "amount": 960,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Customer Service Representative",
+    "allowances": [],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000032",
+    "birthDate": "1966-07-24",
+    "hireDate": "2019-03-04"
+  },
+  {
+    "id": 33,
+    "name": "Abdelaziz Ahmed Khalil",
+    "idNumber": "EMP-1033",
+    "salary": 18725,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Data Analyst",
+    "allowances": [
+      {
+        "amount": 930,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000033",
+    "birthDate": "1993-05-28",
+    "hireDate": "2016-08-11"
+  },
+  {
+    "id": 34,
+    "name": "Abdelhadi Mohamed Hassan",
+    "idNumber": "EMP-1034",
+    "salary": 12050,
+    "deductions": [
+      {
+        "amount": 170,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 750,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "IT Support Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000034",
+    "birthDate": "1998-02-01",
+    "hireDate": "2017-07-09"
+  },
+  {
+    "id": 35,
+    "name": "Abdelmoneim Samir Ali",
+    "idNumber": "EMP-1035",
+    "salary": 17875,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 875,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Financial Analyst",
+    "allowances": [
+      {
+        "amount": 1150,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000035",
+    "birthDate": "1972-11-20",
+    "hireDate": "2020-06-10"
+  },
+  {
+    "id": 36,
+    "name": "Abdelrahim Khaled Ibrahim",
+    "idNumber": "EMP-1036",
+    "salary": 15200,
+    "deductions": [
+      {
+        "amount": 280,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Operations Specialist",
+    "allowances": [
+      {
+        "amount": 1260,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000036",
+    "birthDate": "1966-06-20",
+    "hireDate": "2009-08-03"
+  },
+  {
+    "id": 37,
+    "name": "Abdelwahab Hassan Ahmed",
+    "idNumber": "EMP-1037",
+    "salary": 18025,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1125,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "Software Developer",
+    "allowances": [],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000037",
+    "birthDate": "1985-02-24",
+    "hireDate": "2023-07-31"
+  },
+  {
+    "id": 38,
+    "name": "Abdelhamid Mahmoud Ali",
+    "idNumber": "EMP-1038",
+    "salary": 12350,
+    "deductions": [
+      {
+        "amount": 390,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "HR Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000038",
+    "birthDate": "1984-01-08",
+    "hireDate": "2022-07-14"
+  },
+  {
+    "id": 39,
+    "name": "Abdelkader Youssef Hassan",
+    "idNumber": "EMP-1039",
+    "salary": 14675,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Accountant",
+    "allowances": [
+      {
+        "amount": 1590,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000039",
+    "birthDate": "1973-08-16",
+    "hireDate": "2020-03-04"
+  },
+  {
+    "id": 40,
+    "name": "Abdelbari Omar Khaled",
+    "idNumber": "EMP-1040",
+    "salary": 12000,
+    "deductions": [
+      {
+        "amount": 500,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 1500,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "Sales Representative",
+    "allowances": [],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000040",
+    "birthDate": "1990-12-01",
+    "hireDate": "2023-09-11"
+  },
+  {
+    "id": 41,
+    "name": "Ziad Ahmed Mahmoud",
+    "idNumber": "EMP-1041",
+    "salary": 14325,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1625,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Marketing Specialist",
+    "allowances": [
+      {
+        "amount": 310,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000041",
+    "birthDate": "1982-12-01",
+    "hireDate": "2012-06-03"
+  },
+  {
+    "id": 42,
+    "name": "Zain Hassan Ibrahim",
+    "idNumber": "EMP-1042",
+    "salary": 23650,
+    "deductions": [
+      {
+        "amount": 610,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Project Manager",
+    "allowances": [
+      {
+        "amount": 420,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000042",
+    "birthDate": "1990-05-31",
+    "hireDate": "2017-09-10"
+  },
+  {
+    "id": 43,
+    "name": "Anas Khaled Ali",
+    "idNumber": "EMP-1043",
+    "salary": 17975,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1875,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "UI/UX Designer",
+    "allowances": [],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000043",
+    "birthDate": "1991-11-15",
+    "hireDate": "2014-03-09"
+  },
+  {
+    "id": 44,
+    "name": "Iyad Mohamed Hassan",
+    "idNumber": "EMP-1044",
+    "salary": 11300,
+    "deductions": [
+      {
+        "amount": 720,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Customer Service Representative",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000044",
+    "birthDate": "2002-03-05",
+    "hireDate": "2015-02-14"
+  },
+  {
+    "id": 45,
+    "name": "Laith Ahmed Ibrahim",
+    "idNumber": "EMP-1045",
+    "salary": 19625,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Data Analyst",
+    "allowances": [
+      {
+        "amount": 750,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000045",
+    "birthDate": "2001-06-21",
+    "hireDate": "2017-12-09"
+  },
+  {
+    "id": 46,
+    "name": "Malik Tarek Hassan",
+    "idNumber": "EMP-1046",
+    "salary": 12950,
+    "deductions": [
+      {
+        "amount": 830,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 2250,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "IT Support Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000046",
+    "birthDate": "1983-04-17",
+    "hireDate": "2024-10-12"
+  },
+  {
+    "id": 47,
+    "name": "Muath Khaled Mahmoud",
+    "idNumber": "EMP-1047",
+    "salary": 15775,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 2375,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Financial Analyst",
+    "allowances": [
+      {
+        "amount": 970,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000047",
+    "birthDate": "1986-10-31",
+    "hireDate": "2024-04-24"
+  },
+  {
+    "id": 48,
+    "name": "Moaz Samir Ahmed",
+    "idNumber": "EMP-1048",
+    "salary": 13100,
+    "deductions": [
+      {
+        "amount": 940,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Operations Specialist",
+    "allowances": [
+      {
+        "amount": 1080,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000048",
+    "birthDate": "1996-12-12",
+    "hireDate": "2024-07-12"
+  },
+  {
+    "id": 49,
+    "name": "Hamza Youssef Ali",
+    "idNumber": "EMP-1049",
+    "salary": 18925,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 625,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "Software Developer",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000049",
+    "birthDate": "1994-06-13",
+    "hireDate": "2015-06-03"
+  },
+  {
+    "id": 50,
+    "name": "Bilal Hassan Ahmed",
+    "idNumber": "EMP-1050",
+    "salary": 13250,
+    "deductions": [
+      {
+        "amount": 150,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "HR Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000050",
+    "birthDate": "1992-04-04",
+    "hireDate": "2014-03-31"
+  },
+  {
+    "id": 51,
+    "name": "Talha Mahmoud Ibrahim",
+    "idNumber": "EMP-1051",
+    "salary": 15575,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Accountant",
+    "allowances": [
+      {
+        "amount": 1410,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000051",
+    "birthDate": "1975-05-01",
+    "hireDate": "2013-12-26"
+  },
+  {
+    "id": 52,
+    "name": "Saad Khaled Hassan",
+    "idNumber": "EMP-1052",
+    "salary": 12900,
+    "deductions": [
+      {
+        "amount": 260,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 1000,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "Sales Representative",
+    "allowances": [],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000052",
+    "birthDate": "1990-03-11",
+    "hireDate": "2017-02-17"
+  },
+  {
+    "id": 53,
+    "name": "Sami Ahmed Ali",
+    "idNumber": "EMP-1053",
+    "salary": 15225,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1125,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Marketing Specialist",
+    "allowances": [
+      {
+        "amount": 1630,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000053",
+    "birthDate": "1979-01-05",
+    "hireDate": "2014-06-22"
+  },
+  {
+    "id": 54,
+    "name": "Hadi Mohamed Khalil",
+    "idNumber": "EMP-1054",
+    "salary": 24550,
+    "deductions": [
+      {
+        "amount": 370,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Project Manager",
+    "allowances": [
+      {
+        "amount": 1740,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000054",
+    "birthDate": "1974-06-17",
+    "hireDate": "2020-07-09"
+  },
+  {
+    "id": 55,
+    "name": "Rami Hassan Mahmoud",
+    "idNumber": "EMP-1055",
+    "salary": 18875,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1375,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "UI/UX Designer",
+    "allowances": [],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000055",
+    "birthDate": "1988-07-16",
+    "hireDate": "2018-07-01"
+  },
+  {
+    "id": 56,
+    "name": "Fahd Ibrahim Ahmed",
+    "idNumber": "EMP-1056",
+    "salary": 9200,
+    "deductions": [
+      {
+        "amount": 480,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Customer Service Representative",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000056",
+    "birthDate": "2000-11-07",
+    "hireDate": "2020-12-01"
+  },
+  {
+    "id": 57,
+    "name": "Fares Khaled Ali",
+    "idNumber": "EMP-1057",
+    "salary": 17525,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Data Analyst",
+    "allowances": [
+      {
+        "amount": 570,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000057",
+    "birthDate": "1988-08-14",
+    "hireDate": "2024-06-27"
+  },
+  {
+    "id": 58,
+    "name": "Kareem Mohamed Hassan",
+    "idNumber": "EMP-1058",
+    "salary": 10850,
+    "deductions": [
+      {
+        "amount": 590,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 1750,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "IT Support Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000058",
+    "birthDate": "1999-04-22",
+    "hireDate": "2024-07-26"
+  },
+  {
+    "id": 59,
+    "name": "Hisham Ahmed Ibrahim",
+    "idNumber": "EMP-1059",
+    "salary": 16675,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1875,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Financial Analyst",
+    "allowances": [
+      {
+        "amount": 790,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000059",
+    "birthDate": "2000-03-01",
+    "hireDate": "2024-06-28"
+  },
+  {
+    "id": 60,
+    "name": "Osama Hassan Khaled",
+    "idNumber": "EMP-1060",
+    "salary": 14000,
+    "deductions": [
+      {
+        "amount": 700,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Operations Specialist",
+    "allowances": [
+      {
+        "amount": 900,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000060",
+    "birthDate": "1987-03-28",
+    "hireDate": "2015-03-12"
+  },
+  {
+    "id": 61,
+    "name": "Islam Mahmoud Ali",
+    "idNumber": "EMP-1061",
+    "salary": 19825,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 2125,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "Software Developer",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000061",
+    "birthDate": "1988-11-14",
+    "hireDate": "2023-02-11"
+  },
+  {
+    "id": 62,
+    "name": "Ehab Tarek Hassan",
+    "idNumber": "EMP-1062",
+    "salary": 14150,
+    "deductions": [
+      {
+        "amount": 810,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "HR Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000062",
+    "birthDate": "1972-04-15",
+    "hireDate": "2015-06-22"
+  },
+  {
+    "id": 63,
+    "name": "Anwar Mohamed Hassan",
+    "idNumber": "EMP-1063",
+    "salary": 16475,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Accountant",
+    "allowances": [
+      {
+        "amount": 1230,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000063",
+    "birthDate": "1976-05-12",
+    "hireDate": "2023-12-19"
+  },
+  {
+    "id": 64,
+    "name": "Saber Khaled Ahmed",
+    "idNumber": "EMP-1064",
+    "salary": 13800,
+    "deductions": [
+      {
+        "amount": 920,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 500,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "Sales Representative",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000064",
+    "birthDate": "1996-01-10",
+    "hireDate": "2018-02-18"
+  },
+  {
+    "id": 65,
+    "name": "Maher Ibrahim Ali",
+    "idNumber": "EMP-1065",
+    "salary": 13125,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 625,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Marketing Specialist",
+    "allowances": [
+      {
+        "amount": 1450,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000065",
+    "birthDate": "1975-01-19",
+    "hireDate": "2015-08-10"
+  },
+  {
+    "id": 66,
+    "name": "Rashed Hassan Mahmoud",
+    "idNumber": "EMP-1066",
+    "salary": 22450,
+    "deductions": [
+      {
+        "amount": 130,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Project Manager",
+    "allowances": [
+      {
+        "amount": 1560,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000066",
+    "birthDate": "1999-06-28",
+    "hireDate": "2024-09-20"
+  },
+  {
+    "id": 67,
+    "name": "Adel Youssef Khalil",
+    "idNumber": "EMP-1067",
+    "salary": 16775,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 875,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "UI/UX Designer",
+    "allowances": [],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000067",
+    "birthDate": "1977-02-25",
+    "hireDate": "2023-08-18"
+  },
+  {
+    "id": 68,
+    "name": "Hatem Ahmed Ibrahim",
+    "idNumber": "EMP-1068",
+    "salary": 10100,
+    "deductions": [
+      {
+        "amount": 240,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Customer Service Representative",
+    "allowances": [],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000068",
+    "birthDate": "1987-05-11",
+    "hireDate": "2021-10-24"
+  },
+  {
+    "id": 69,
+    "name": "Nasser Khaled Hassan",
+    "idNumber": "EMP-1069",
+    "salary": 18425,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Data Analyst",
+    "allowances": [
+      {
+        "amount": 390,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000069",
+    "birthDate": "1974-06-07",
+    "hireDate": "2016-08-13"
+  },
+  {
+    "id": 70,
+    "name": "Hassan Mahmoud Ali",
+    "idNumber": "EMP-1070",
+    "salary": 11750,
+    "deductions": [
+      {
+        "amount": 350,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 1250,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "IT Support Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000070",
+    "birthDate": "1991-03-28",
+    "hireDate": "2015-09-15"
+  },
+  {
+    "id": 71,
+    "name": "Salah Ahmed Ibrahim",
+    "idNumber": "EMP-1071",
+    "salary": 17575,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1375,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Financial Analyst",
+    "allowances": [
+      {
+        "amount": 610,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000071",
+    "birthDate": "1987-07-10",
+    "hireDate": "2016-02-21"
+  },
+  {
+    "id": 72,
+    "name": "Rashad Mohamed Hassan",
+    "idNumber": "EMP-1072",
+    "salary": 14900,
+    "deductions": [
+      {
+        "amount": 460,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Operations Specialist",
+    "allowances": [
+      {
+        "amount": 720,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000072",
+    "birthDate": "1996-07-23",
+    "hireDate": "2013-12-15"
+  },
+  {
+    "id": 73,
+    "name": "Mamdouh Khaled Ali",
+    "idNumber": "EMP-1073",
+    "salary": 20725,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1625,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "Software Developer",
+    "allowances": [],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000073",
+    "birthDate": "2002-07-01",
+    "hireDate": "2020-10-11"
+  },
+  {
+    "id": 74,
+    "name": "Aref Hassan Mahmoud",
+    "idNumber": "EMP-1074",
+    "salary": 12050,
+    "deductions": [
+      {
+        "amount": 570,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "HR Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000074",
+    "birthDate": "1992-01-22",
+    "hireDate": "2026-06-15"
+  },
+  {
+    "id": 75,
+    "name": "Jamal Ahmed Khalil",
+    "idNumber": "EMP-1075",
+    "salary": 14375,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Accountant",
+    "allowances": [
+      {
+        "amount": 1050,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000075",
+    "birthDate": "1972-04-30",
+    "hireDate": "2017-01-31"
+  },
+  {
+    "id": 76,
+    "name": "Fathi Ibrahim Hassan",
+    "idNumber": "EMP-1076",
+    "salary": 11700,
+    "deductions": [
+      {
+        "amount": 680,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 2000,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "Sales Representative",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000076",
+    "birthDate": "1999-05-25",
+    "hireDate": "2017-07-31"
+  },
+  {
+    "id": 77,
+    "name": "Hamed Youssef Ali",
+    "idNumber": "EMP-1077",
+    "salary": 14025,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 2125,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Marketing Specialist",
+    "allowances": [
+      {
+        "amount": 1270,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000077",
+    "birthDate": "2002-01-30",
+    "hireDate": "2020-02-18"
+  },
+  {
+    "id": 78,
+    "name": "Kamal Hassan Ahmed",
+    "idNumber": "EMP-1078",
+    "salary": 23350,
+    "deductions": [
+      {
+        "amount": 790,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Project Manager",
+    "allowances": [
+      {
+        "amount": 1380,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000078",
+    "birthDate": "1973-03-24",
+    "hireDate": "2016-08-04"
+  },
+  {
+    "id": 79,
+    "name": "Samir Khaled Ibrahim",
+    "idNumber": "EMP-1079",
+    "salary": 17675,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 2375,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "UI/UX Designer",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000079",
+    "birthDate": "1971-05-30",
+    "hireDate": "2021-10-27"
+  },
+  {
+    "id": 80,
+    "name": "Maged Ahmed Mahmoud",
+    "idNumber": "EMP-1080",
+    "salary": 11000,
+    "deductions": [
+      {
+        "amount": 900,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Customer Service Representative",
+    "allowances": [],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000080",
+    "birthDate": "1984-04-28",
+    "hireDate": "2024-10-07"
+  },
+  {
+    "id": 81,
+    "name": "Hany Ibrahim Hassan",
+    "idNumber": "EMP-1081",
+    "salary": 19325,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Data Analyst",
+    "allowances": [
+      {
+        "amount": 1710,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000081",
+    "birthDate": "1999-03-10",
+    "hireDate": "2024-10-18"
+  },
+  {
+    "id": 82,
+    "name": "Ashraf Mohamed Ali",
+    "idNumber": "EMP-1082",
+    "salary": 12650,
+    "deductions": [
+      {
+        "amount": 110,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 750,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "IT Support Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000082",
+    "birthDate": "1965-10-22",
+    "hireDate": "2010-12-09"
+  },
+  {
+    "id": 83,
+    "name": "Wael Khaled Hassan",
+    "idNumber": "EMP-1083",
+    "salary": 18475,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 875,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Financial Analyst",
+    "allowances": [
+      {
+        "amount": 430,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000083",
+    "birthDate": "1992-07-19",
+    "hireDate": "2014-09-09"
+  },
+  {
+    "id": 84,
+    "name": "Essam Ahmed Ibrahim",
+    "idNumber": "EMP-1084",
+    "salary": 12800,
+    "deductions": [
+      {
+        "amount": 220,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Operations Specialist",
+    "allowances": [
+      {
+        "amount": 540,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000084",
+    "birthDate": "1997-05-14",
+    "hireDate": "2024-07-17"
+  },
+  {
+    "id": 85,
+    "name": "Magdy Hassan Ali",
+    "idNumber": "EMP-1085",
+    "salary": 18625,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1125,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "Software Developer",
+    "allowances": [],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000085",
+    "birthDate": "1998-04-19",
+    "hireDate": "2017-01-09"
+  },
+  {
+    "id": 86,
+    "name": "Hossam Khalil Ahmed",
+    "idNumber": "EMP-1086",
+    "salary": 12950,
+    "deductions": [
+      {
+        "amount": 330,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "HR Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000086",
+    "birthDate": "1994-10-30",
+    "hireDate": "2020-07-23"
+  },
+  {
+    "id": 87,
+    "name": "Yasser Mohamed Hassan",
+    "idNumber": "EMP-1087",
+    "salary": 15275,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Accountant",
+    "allowances": [
+      {
+        "amount": 870,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000087",
+    "birthDate": "2000-07-07",
+    "hireDate": "2016-09-04"
+  },
+  {
+    "id": 88,
+    "name": "Ramy Khaled Mahmoud",
+    "idNumber": "EMP-1088",
+    "salary": 12600,
+    "deductions": [
+      {
+        "amount": 440,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 1500,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "Sales Representative",
+    "allowances": [],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000088",
+    "birthDate": "1982-04-06",
+    "hireDate": "2021-07-01"
+  },
+  {
+    "id": 89,
+    "name": "Nabil Ahmed Ali",
+    "idNumber": "EMP-1089",
+    "salary": 14925,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1625,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Marketing Specialist",
+    "allowances": [
+      {
+        "amount": 1090,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000089",
+    "birthDate": "1982-04-17",
+    "hireDate": "2020-02-15"
+  },
+  {
+    "id": 90,
+    "name": "Khalil Ibrahim Hassan",
+    "idNumber": "EMP-1090",
+    "salary": 24250,
+    "deductions": [
+      {
+        "amount": 550,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Project Manager",
+    "allowances": [
+      {
+        "amount": 1200,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000090",
+    "birthDate": "1977-06-11",
+    "hireDate": "2019-05-09"
+  },
+  {
+    "id": 91,
+    "name": "Fouad Ahmed Mahmoud",
+    "idNumber": "EMP-1091",
+    "salary": 18575,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 1875,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "UI/UX Designer",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000091",
+    "birthDate": "1973-03-09",
+    "hireDate": "2024-06-14"
+  },
+  {
+    "id": 92,
+    "name": "Nour Mohamed Hassan",
+    "idNumber": "EMP-1092",
+    "salary": 11900,
+    "deductions": [
+      {
+        "amount": 660,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Customer Service Representative",
+    "allowances": [],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000092",
+    "birthDate": "2001-12-26",
+    "hireDate": "2026-05-29"
+  },
+  {
+    "id": 93,
+    "name": "Taha Khaled Ali",
+    "idNumber": "EMP-1093",
+    "salary": 17225,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Data Analyst",
+    "allowances": [
+      {
+        "amount": 1530,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000093",
+    "birthDate": "1996-07-11",
+    "hireDate": "2014-01-08"
+  },
+  {
+    "id": 94,
+    "name": "Zakaria Ahmed Ibrahim",
+    "idNumber": "EMP-1094",
+    "salary": 10550,
+    "deductions": [
+      {
+        "amount": 770,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 2250,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "IT Support Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000094",
+    "birthDate": "1988-12-01",
+    "hireDate": "2020-02-18"
+  },
+  {
+    "id": 95,
+    "name": "Yahya Hassan Mahmoud",
+    "idNumber": "EMP-1095",
+    "salary": 16375,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 2375,
+        "reason": "Employee of the month"
+      }
+    ],
+    "jobTitle": "Financial Analyst",
+    "allowances": [
+      {
+        "amount": 1750,
+        "reason": "Travel allowance"
+      }
+    ],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000095",
+    "birthDate": "1965-02-20",
+    "hireDate": "2020-02-02"
+  },
+  {
+    "id": 96,
+    "name": "Ismail Khaled Ahmed",
+    "idNumber": "EMP-1096",
+    "salary": 13700,
+    "deductions": [
+      {
+        "amount": 880,
+        "reason": "Unapproved leave"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "Operations Specialist",
+    "allowances": [
+      {
+        "amount": 360,
+        "reason": "Internet allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent overall performance.",
+    "bankAccountNumber": "EG4000000000000096",
+    "birthDate": "1987-02-09",
+    "hireDate": "2019-09-09"
+  },
+  {
+    "id": 97,
+    "name": "Moussa Ibrahim Ali",
+    "idNumber": "EMP-1097",
+    "salary": 19525,
+    "deductions": [],
+    "incentives": [
+      {
+        "amount": 625,
+        "reason": "Excellent performance"
+      }
+    ],
+    "jobTitle": "Software Developer",
+    "allowances": [],
+    "statusDescription": "Active employee currently assigned to a key project.",
+    "bankAccountNumber": "EG4000000000000097",
+    "birthDate": "1992-01-06",
+    "hireDate": "2013-11-23"
+  },
+  {
+    "id": 98,
+    "name": "Haroun Hassan Ahmed",
+    "idNumber": "EMP-1098",
+    "salary": 13850,
+    "deductions": [
+      {
+        "amount": 990,
+        "reason": "Unpaid absence"
+      }
+    ],
+    "incentives": [],
+    "jobTitle": "HR Specialist",
+    "allowances": [],
+    "statusDescription": "Active employee with satisfactory performance.",
+    "bankAccountNumber": "EG4000000000000098",
+    "birthDate": "1982-11-20",
+    "hireDate": "2025-11-26"
+  },
+  {
+    "id": 99,
+    "name": "Younis Khaled Ibrahim",
+    "idNumber": "EMP-1099",
+    "salary": 16175,
+    "deductions": [],
+    "incentives": [],
+    "jobTitle": "Accountant",
+    "allowances": [
+      {
+        "amount": 690,
+        "reason": "Housing allowance"
+      }
+    ],
+    "statusDescription": "Active employee with excellent attendance.",
+    "bankAccountNumber": "EG4000000000000099",
+    "birthDate": "1983-06-25",
+    "hireDate": "2023-01-25"
+  },
+  {
+    "id": 100,
+    "name": "Ilyas Mahmoud Hassan",
+    "idNumber": "EMP-1100",
+    "salary": 13500,
+    "deductions": [
+      {
+        "amount": 200,
+        "reason": "Company policy violation"
+      }
+    ],
+    "incentives": [
+      {
+        "amount": 1000,
+        "reason": "Outstanding teamwork"
+      }
+    ],
+    "jobTitle": "Sales Representative",
+    "allowances": [],
+    "statusDescription": "Active employee under regular performance review.",
+    "bankAccountNumber": "EG4000000000000100",
+    "birthDate": "1986-06-19",
+    "hireDate": "2023-09-06"
+  }
+]
